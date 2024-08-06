@@ -52,4 +52,4 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 ## 8 Week SQL Challenge by Danny Ma
 
-You can find all the details about this challenge and more information about Danny Ma on the [8-Week SQL Challenge page](https://8weeksqlchallenge.com/)!
+You can find all the details about this challenge and more information about Danny Ma on the [8-Week SQL Challenge page](https://8weeksqlchallenge.com/).
