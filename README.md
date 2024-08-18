@@ -6,5 +6,5 @@ The 8 Week SQL Challenge made by Danny Ma. It has 8 case studies and you can rea
 
 - Case Study #1 - Danny's Diner
 - Case Study #2 - Pizza Runner 
-
+- Case Study #3 - Foodie-Fi
 
