@@ -14,6 +14,7 @@
   - [C. Ingredient Optimisation](#c-ingredient-optimisation)
   - [D. Pricing and Ratings](#d-pricing-and-ratings)
   - [E. Bonus Questions](#e-bonus-questions)
+
 [8 Week SQL Challenge](#challenge)
 ***
 <a name="introduction"/>
