@@ -10,3 +10,4 @@ The 8 Week SQL Challenge made by Danny Ma. It has 8 case studies and you can rea
 - Case Study #4 - Data Bank
 - Case Study #5 - Data Mart
 - Case Study #6 - Clique Bait
+- Case Study #7 - Balanced Tree Clothing Co
